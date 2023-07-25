@@ -73,7 +73,7 @@ function MyApp({ Component, pageProps }) {
             <div>
               <p>❤️ XQTR</p></div>
             <div className="mt-2 md:mt-0 flex items-center">
-              <a href="https://discord.gg/DR52Rxh8bD" target="_blank" rel="noreferrer" className="w-full md:w-auto bg-neutral-700/5 hover:bg-neutral-700/20 px-4 py-2 rounded-md transition-all duration-200">
+              <a href="https://discord.gg/AxtHDxXj" target="_blank" rel="noreferrer" className="w-full md:w-auto bg-neutral-700/5 hover:bg-neutral-700/20 px-4 py-2 rounded-md transition-all duration-200">
                 <i className="fab fa-discord mr-2" />Discord Sunucumuz
               </a>
             </div>
