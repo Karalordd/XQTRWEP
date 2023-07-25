@@ -13,8 +13,7 @@ export default function Home() {
         <p className="text-3xl text-white font-semibold text-center">Contact Me</p>
         <p className="text-xl text-white/50 font-normal text-center mb-5">Other addresses where you can contact me.</p>
         <div className=" flex justify-center flex-col items-center">
-            <div className="max-w-lg w-full">
-                <a target="_blank" rel="norefferer" href=" https://instagram.com/umutxyp/">
+            <div className="max-w-lg w-full"
                     <div className="flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center"
                     </div>
                 </a>
